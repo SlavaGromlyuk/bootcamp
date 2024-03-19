@@ -1,6 +1,6 @@
 # This programme calculates your income tax liability
 
-# Below is a set of fixed parameters for 2023-2024 financial year
+# Below is a set of fixed parameters for 2024-2025 financial year
 
 br = 0.2 # basic tax rate
 hr = 0.4 # higher tax rate
