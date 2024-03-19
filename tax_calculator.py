@@ -11,7 +11,7 @@ pa = 12570 # personal allowance
 pat = 100000 # personal allowance threshold
 nilt = 242*52 # national insurance lower threshold (annually)
 niht = 967*52 # national insurance higher threshold (annually)
-nilr = 0.12 # national insurance lower rate
+nilr = 0.08 # national insurance lower rate
 nihr = 0.02 # national insurance higher rate
 
 # Below are the prompts for user to set the value of variable parameters
